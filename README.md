@@ -9,7 +9,7 @@ The Self-Driving Car Engineer is an online certification intended to prepare stu
 ## Term 1: Deep Learning and Computer Vision
 ### 1. Deep Learning
 
-    deep-learning-notes-and-labs: Notes on Deep Learning, Tensorflow and Keras
+    * deep-learning-notes-and-labs: Notes on Deep Learning, Tensorflow and Keras
     Project 2: Traffic Sign Classifier (Deep Learning)
     Project 3: Behavioural Cloning (Deep Learning)
         Train a car to drive in a 3D simulator using a deep neural network.
@@ -21,3 +21,5 @@ The Self-Driving Car Engineer is an online certification intended to prepare stu
     Project 1: Finding Lane Lines (Intro to Computer Vision)
     Project 4: Advanced Lane Lines (Computer Vision)
     Project 5: Vehicle Detection (Computer Vision)
+
+**Behavioral Cloning Project**
