@@ -1,3 +1,4 @@
+
 P2-traffic-sign-classifier/traffic-sign-data*
 P2-traffic-sign-classifier/model-*
 P2-traffic-sign-classifier/tmp/
@@ -9,10 +10,10 @@ checkpoint
 *.data-00000-of-00001
 *._traffic-signs-data
 
-P3-behavioural-cloning/data*
-P3-behavioural-cloning/model-*
-P3-behavioural-cloning/tmp/
-P3-behavioural-cloning/archive/
+P3-Behavioural_Cloning/data*
+P3-Behavioural_Cloning/model-*
+P3-Behavioural_Cloning/tmp/
+P3-Behavioural_Cloning/archive/
 
 .idea/
 
