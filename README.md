@@ -1,4 +1,4 @@
-# self-driving-car-nd
+# Self-driving-car-nd
 Udacity's Self-Driving car Nanodegree projects and notebooks.
 
 This repository contains project files and lecture notes for Udacity's Self-Driving Car Engineer Nanodegree program which I started working on on February 2017.
