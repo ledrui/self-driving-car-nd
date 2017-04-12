@@ -1,7 +1,7 @@
-p2-traffic-sign-classifier/traffic-sign-data*
-p2-traffic-sign-classifier/model-*
-p2-traffic-sign-classifier/tmp/
-p2-traffic-sign-classifier/archive/
+P2-traffic-sign-classifier/traffic-sign-data*
+P2-traffic-sign-classifier/model-*
+P2-traffic-sign-classifier/tmp/
+P2-traffic-sign-classifier/archive/
 
 checkpoint
 *.meta
@@ -9,16 +9,16 @@ checkpoint
 *.data-00000-of-00001
 *._traffic-signs-data
 
-p3-behavioural-cloning/data*
-p3-behavioural-cloning/model-*
-p3-behavioural-cloning/tmp/
-p3-behavioural-cloning/archive/
+P3-behavioural-cloning/data*
+P3-behavioural-cloning/model-*
+P3-behavioural-cloning/tmp/
+P3-behavioural-cloning/archive/
 
 .idea/
 
 *.zip
 
-p1-lane-lines/annotated-videos/
+P1-lane-lines/annotated-videos/
 
 *.h5
 
@@ -32,12 +32,12 @@ p1-lane-lines/annotated-videos/
 
 *.mp4
 
-p5-vehicle-detection/vehicles/
-p5-vehicle-detection/non-vehicles/
-p5-vehicle-detection/hogviz/
-p5-vehicle-detection/examples/
-p5-vehicle-detection/output_images/
-p5-vehicle-detection/archive/
+P5-vehicle-detection/vehicles/
+P5-vehicle-detection/non-vehicles/
+P5-vehicle-detection/hogviz/
+P5-vehicle-detection/examples/
+P5-vehicle-detection/output_images/
+P5-vehicle-detection/archive/
 
 */.ipynb_checkpoints/*
 
