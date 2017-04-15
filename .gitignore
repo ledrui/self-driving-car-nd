@@ -1,9 +1,3 @@
-
-P2-traffic-sign-classifier/traffic-sign-data*
-P2-traffic-sign-classifier/model-*
-P2-traffic-sign-classifier/tmp/
-P2-traffic-sign-classifier/archive/
-
 checkpoint
 *.meta
 *.index
